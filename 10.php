@@ -1,0 +1,10 @@
+<?php 
+$a = 50;
+$b = 10;
+if ($a==$b) {
+    echo "BENAR";
+}else
+{
+    echo "SALAH";
+}
+?>
